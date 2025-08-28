@@ -1,0 +1,1 @@
+HI! This is a practice repository that I'm using both to learn how to use Git and Github as well as Python. These are the INTIAL months of learning Python in 2024 that I've pushed up into github to keep track!
